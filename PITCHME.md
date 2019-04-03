@@ -2,7 +2,7 @@
 
 # React Hooks
 
-@fab[fa-react fa-spin fa-lg aqua]
+@fab[angular fa-spin fa-lg aqua]
 
 
 ---
