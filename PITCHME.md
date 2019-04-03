@@ -2,7 +2,7 @@
 
 # React Hooks
 
-@fab[angular fa-spin fa-10x ]
+@fab[facebook-square fa-spin fa-10x ]
 
 
 ---
