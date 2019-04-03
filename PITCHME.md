@@ -2,7 +2,7 @@
 
 # React Hooks
 
-@fab[docker fa-spin]
+@fab[react fa-spin]
 
 
 ---
